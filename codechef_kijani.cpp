@@ -26,7 +26,7 @@ int main() {
 	    }
 	    
 	    sort(v.begin(), v.end(), sortbysec);
-	    for(int i=0;i<n;i++)cout<<v[i].first<<" "<<v[i].second<<endl;
+	    //for(int i=0;i<n;i++)cout<<v[i].first<<" "<<v[i].second<<endl;
 	    
 	    cout<<endl;
 	    //cout<<v[0].first<<" "<<v[0].second<<endl;
